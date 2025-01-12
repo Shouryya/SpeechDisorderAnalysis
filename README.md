@@ -75,7 +75,7 @@ The CNN model achieved the highest accuracy by leveraging spectrogram data to id
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo-name.git
+   git clone https://github.com/SpeechDisorderAnalysis.git
    ```
 3. Run the preprocessing and model training scripts:
    ```bash
