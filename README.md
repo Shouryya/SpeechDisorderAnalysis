@@ -1,8 +1,3 @@
-# SpeechDisorderAnalysis
-Here's a sample **README.md** file for your GitHub repository based on the research paper content:
-
----
-
 # Speech Disorder Detection Using Machine Learning and Deep Learning Techniques
 
 This repository contains the implementation and results of our research on classifying pathological and non-pathological speech using machine learning and deep learning methods. The study demonstrates the potential of automated systems in enhancing speech disorder diagnostics, particularly in resource-constrained settings.
