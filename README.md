@@ -77,21 +77,10 @@ The CNN model achieved the highest accuracy by leveraging spectrogram data to id
    ```bash
    git clone https://github.com/your-repo-name.git
    ```
-2. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
 3. Run the preprocessing and model training scripts:
    ```bash
-   python preprocess_data.py
-   python train_model.py
+   python My_copy_of_Speech_Disorder_Analysis.py
    ```
-4. Evaluate the models:
-   ```bash
-   python evaluate_model.py
-   ```
-
----
 
 ## Future Work
 
